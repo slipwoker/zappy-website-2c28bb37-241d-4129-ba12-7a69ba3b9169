@@ -1,0 +1,88 @@
+# צימבליסט - מוצרי זכוכית — Generative Engine Optimization Map
+
+> Tzimblalist is a professional glass manufacturing and installation company specializing in premium glass solutions for both residential and commercial spaces. Their product range includes high-quality shower enclosures, mirrors, display cases (vitrines), office partitions, railings, kitchen cladding, and bathroom entrances. The brand emphasizes quality craftsmanship and precision, serving clients who seek elegant and durable glass installations. The website should showcase their work through categorized photo galleries to highlight the variety and quality of their projects.
+
+---
+
+## Pages
+
+### בית
+https://-2c28bb37.zappy5.app
+צימבליסט מציעה פתרונות זכוכית פרימיום למגורים ולעסקים: מקלחון זכוכית איכותי, מעקות, ויטרינות ומחיצות משרד. איכות ללא פשרות — גלה את הקולקציה שלנו עוד היום!
+
+### שירותים
+https://-2c28bb37.zappy5.app/services
+ממעקות זכוכית מרהיבות ועד ויטרינות מעוצבות, מחיצות זכוכית למשרד ומקלחונים איכותיים — השירותים שלנו משלבים דיוק, עמידות ועיצוב מושלם לכל פרויקט. בדוק מה אנחנו יכולים לעשות בשבילך!
+
+### אודות
+https://-2c28bb37.zappy5.app/about
+צימבליסט נוסדה מתוך אהבה לאומנות הזכוכית ומחויבות לאיכות בלתי מתפשרת. הכר את הצוות המקצועי שמעצב ומתקין מעקות, ויטרינות ופתרונות זכוכית מותאמים אישית לכל לקוח ופרויקט.
+
+### צור קשר
+https://-2c28bb37.zappy5.app/contact
+רוצה מקלחון זכוכית איכותי, מחיצות זכוכית למשרד או מעקות מעוצבים? צור קשר עם צוות צימבליסט עכשיו וקבל ייעוץ מקצועי והצעת מחיר מותאמת אישית לפרויקט שלך ללא עלות!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-2c28bb37.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-2c28bb37.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-2c28bb37.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-2c28bb37.zappy5.app/contact
+- Endpoint: https://-2c28bb37.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `phone` (tel, required)
+  - `email` (email, required)
+  - `subject` (text)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About צימבליסט - מוצרי זכוכית
+Tzimblalist is a professional glass manufacturing and installation company specializing in premium glass solutions for both residential and commercial spaces. Their product range includes high-quality shower enclosures, mirrors, display cases (vitrines), office partitions, railings, kitchen cladding, and bathroom entrances. The brand emphasizes quality craftsmanship and precision, serving clients who seek elegant and durable glass installations. The website should showcase their work through categorized photo galleries to highlight the variety and quality of their projects.
+
+## Services/Products
+- מקלחוני איכות
+- מראות
+- ויטרינות
+- מחיצות משרדים
+- מעקות
+- חיפוי למטבח
+- כניסה לחדרי אמבטיה
+
+## Target Audience
+- אנשי מקצוע בתחום הבנייה
+- מעצבי פנים
+- בעלי בתים משפרי דיור
+
+## Industry
+Glass Manufacturing & Installation
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-2c28bb37.zappy5.app/sitemap.xml
+- Robots: https://-2c28bb37.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-2c28bb37.zappy5.app/llms-full.txt
