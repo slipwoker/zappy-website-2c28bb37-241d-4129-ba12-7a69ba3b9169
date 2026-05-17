@@ -2,13 +2,13 @@
 
 Tzimblalist is a professional glass manufacturing and installation company specializing in premium glass solutions for both residential and commercial spaces. Their product range includes high-quality shower enclosures, mirrors, display cases (vitrines), office partitions, railings, kitchen cladding, and bathroom entrances. The brand emphasizes quality craftsmanship and precision, serving clients who seek elegant and durable glass installations. The website should showcase their work through categorized photo galleries to highlight the variety and quality of their projects.
 
-Source: https://-2c28bb37.zappy5.app
+Source: https://example.com
 
 ---
 
 ## מעקות — צימבליסט - מוצרי זכוכית
 
-URL: https://-2c28bb37.zappy5.app
+URL: https://example.com
 Description: צימבליסט מציעה פתרונות זכוכית פרימיום למגורים ולעסקים: מקלחון זכוכית איכותי, מעקות, ויטרינות ומחיצות משרד. איכות ללא פשרות — גלה את הקולקציה שלנו עוד היום!
 
 מעקות — צימבליסט - מוצרי זכוכית
@@ -387,7 +387,7 @@ Description: צימבליסט מציעה פתרונות זכוכית פרימי�
 
 ## כל פתרון זכוכית במקום אחד — צימבליסט - מוצרי זכוכית
 
-URL: https://-2c28bb37.zappy5.app/services
+URL: https://example.com/services
 Description: ממעקות זכוכית מרהיבות ועד ויטרינות מעוצבות, מחיצות זכוכית למשרד ומקלחונים איכותיים — השירותים שלנו משלבים דיוק, עמידות ועיצוב מושלם לכל פרויקט. בדוק מה אנחנו יכולים לעשות בשבילך!
 
 כל פתרון זכוכית במקום אחד — צימבליסט - מוצרי זכוכית
@@ -794,7 +794,7 @@ Description: ממעקות זכוכית מרהיבות ועד ויטרינות מ
 
 ## המומחים שמאחורי כל יצירת זכוכית — צימבליסט - מוצרי זכוכית
 
-URL: https://-2c28bb37.zappy5.app/about
+URL: https://example.com/about
 Description: צימבליסט נוסדה מתוך אהבה לאומנות הזכוכית ומחויבות לאיכות בלתי מתפשרת. הכר את הצוות המקצועי שמעצב ומתקין מעקות, ויטרינות ופתרונות זכוכית מותאמים אישית לכל לקוח ופרויקט.
 
 המומחים שמאחורי כל יצירת זכוכית — צימבליסט - מוצרי זכוכית
@@ -1136,7 +1136,7 @@ Description: צימבליסט נוסדה מתוך אהבה לאומנות הזכ
 
 ## קבל הצעת מחיר לפרויקט הזכוכית שלך — צימבליסט - מוצרי זכוכית
 
-URL: https://-2c28bb37.zappy5.app/contact
+URL: https://example.com/contact
 Description: רוצה מקלחון זכוכית איכותי, מחיצות זכוכית למשרד או מעקות מעוצבים? צור קשר עם צוות צימבליסט עכשיו וקבל ייעוץ מקצועי והצעת מחיר מותאמת אישית לפרויקט שלך ללא עלות!
 
 קבל הצעת מחיר לפרויקט הזכוכית שלך — צימבליסט - מוצרי זכוכית
@@ -1392,7 +1392,7 @@ Description: רוצה מקלחון זכוכית איכותי, מחיצות זכ�
 
 ## מדיניות פרטיות
 
-URL: https://-2c28bb37.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -1588,7 +1588,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-2c28bb37.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1793,7 +1793,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-2c28bb37.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
