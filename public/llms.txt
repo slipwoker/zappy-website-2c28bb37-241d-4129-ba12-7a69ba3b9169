@@ -40,7 +40,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: orenzimbalist@gmail.com
+- Phone: 0525676064
+- Phone (tel): tel:0525676064
+- Address: ערמון 7 בן זכאי, בן זכאי, ישראל, ישראל
 
 ### Contact form
 - URL: https://example.com/contact
